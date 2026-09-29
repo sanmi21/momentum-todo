@@ -1,0 +1,7 @@
+node_modules/
+dist/
+backend/.venv/
+backend/.deps/
+backend/__pycache__/
+backend/tasks.db
+.sites-runtime/
