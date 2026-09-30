@@ -1,7 +1,13 @@
+.venv/
+venv/
 node_modules/
 dist/
 backend/.venv/
 backend/.deps/
-backend/__pycache__/
+**/__pycache__/
+*.py[cod]
 backend/tasks.db
+.env
+.env.local
+.vercel/
 .sites-runtime/
